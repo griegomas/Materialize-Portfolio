@@ -1,0 +1,29 @@
+
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.float-left {
+  float:left;
+  width:48%
+}
+
+.float-right {
+  float:right;
+  width:48%
+}
+
+.modal-footer a {
+  color: #fff !important;
+}
+
+footer.page-footer {
+  padding-top: 0px;
+}
+
+
